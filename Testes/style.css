@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-color:khaki;
+}
+.artigo1{
+    width:auto;
+    height:auto;
+    padding:40px;
+    margin:20px;
+    border-radius: 500px 0px;
+    border: 2px solid black;
+    background-color:yellow;
+    color: brown;
+    font-size: larger;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.artigo2{
+    color: green;
+    letter-spacing: 2px;
+    font-size:large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.artigo3{
+    width: auto;
+    height: auto;
+    padding: 40px;
+    margin: 20px;
+    border-radius:100px 50px;
+    border: 2px solid brown;
+    background-color: green;
+    text-align: right;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.artigo4{
+    font-family: 'Courier New', Courier, monospace;
+    color: greenyellow;
+    letter-spacing: 2px;
+    font-size: large;
+}
+
+.artigo5{
+    width: auto;
+    height: auto;
+    margin: 20px;
+    padding: 40px;
+    border: 5px solid black;
+    border-radius: 150px 0px 150px 150px;
+    text-align:left;
+    background-color:red;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+.artigo6{
+    color: rgb(4, 20, 243);
+    letter-spacing: 2px;
+
+}
+
+/*aqui here aqui here*/
+
+.artigo7{
+    width: auto;
+    height: auto;
+    margin: 20px;
+    padding: 40px;
+    border-radius:150px;
+    border: 5px black;
+    text-align:center;
+    background-color:rgb(3, 222, 230);
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+.artigo8{
+    color: rgb(28, 80, 15);
+    letter-spacing: 2px;
+
+}
+.artigo9{
+    width: auto;
+    height: auto;
+    margin: 20px;
+    padding: 40px;
+    border: 2px solid black;
+    border-radius:0px 50px 0px 100px;
+    text-align:left;
+    background-color:rgb(240, 20, 229);
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+.artigo10{
+    color: rgb(4, 20, 243);
+    letter-spacing: 2px;
+
+}
+.artigo11{
+    width: auto;
+    height: auto;
+    margin: 20px;
+    padding: 40px;
+    border: 2px solid black;
+    text-align:right;
+    border-radius:100px 10px;
+    background-color:rgb(16, 105, 165);
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+.artigo12{
+    color: rgb(230, 230, 230);
+    letter-spacing: 2px;
+
+}
+.artigo13{
+    width: auto;
+    height: auto;
+    margin: 20px;
+    padding: 40px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius:150px 150px 0px 0px;
+    background-color:orange;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+.artigo14{
+    color: rgb(4, 20, 243);
+    letter-spacing: 2px;
+
+}
